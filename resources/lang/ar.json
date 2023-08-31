@@ -1,0 +1,13 @@
+{
+    "Sorry,there is a previous request in the waiting list": "عذرا،هناك طلب سابق في قائمة الأنتظار",
+    "Sorry,something went worng.Please try again later": "عذرا،هناك خطأ ما ،يرجى المحاولة لاحقا",
+    "The request has been sent successfully": "تم إرسال الدعوة بنجاح",
+    "request rejected successfully": "تم رفض الدعوة بنجاح",
+    "request accepted successfully": "تم قبول الدعوة بنجاح",
+    "Order deleted successfully": "تم حذف الطلب بنجاح",
+    "User successfully logged in": "تم تسجيل الدخول بنجاح",
+    "user created successfully": "تم إنشاء الحساب بنجاح",
+    "registration completed successfully!": "تم استكمال التسجيل بنجاح",
+    "Updated successfully!": "تم تعديل معلومات الحساب بنجاح!",
+    "User successfully logged out": "تم تسجيل الخروج بنجاح"
+}
